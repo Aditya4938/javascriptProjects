@@ -1,0 +1,27 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya4938/javascriptProjects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya4938/javascriptProjects/issues"
+  },
+  "homepage": "https://github.com/Aditya4938/javascriptProjects#readme",
+  "dependencies": {
+    "vite": "^4.4.6"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3"
+  }
+}
